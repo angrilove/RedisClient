@@ -1,0 +1,3 @@
+# OSX jar app 启动
+
+from http://stackoverflow.com/questions/3976342/running-swt-based-cross-platform-jar-properly-on-a-mac

@@ -32,7 +32,6 @@ public class AboutDialog extends RedisClientDialog {
 	/**
 	 * Create the dialog.
 	 * @param parent
-	 * @param style
 	 */
 	public AboutDialog(Shell parent, Image image) {
 		super(parent, image);

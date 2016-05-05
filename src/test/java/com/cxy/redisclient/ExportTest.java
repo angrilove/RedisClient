@@ -1,11 +1,10 @@
 package com.cxy.redisclient;
 
-import java.io.IOException;
-
 import com.cxy.redisclient.domain.ContainerKey;
 import com.cxy.redisclient.service.ExportService;
-
 import junit.framework.TestCase;
+
+import java.io.IOException;
 
 public class ExportTest extends TestCase {
 
